@@ -1,10 +1,10 @@
 ### YamlMime:Yaml
-ms.openlocfilehash: b212f8079ab4d285b60f44afcdac6514a36f52f4
-ms.sourcegitcommit: f3937681c3f6e310355071e1842967695e365751
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "130765739"
+### ms.openlocfilehash: b212f8079ab4d285b60f44afcdac6514a36f52f4
+### ms.sourcegitcommit: f3937681c3f6e310355071e1842967695e365751
+###ms.translationtype: HT
+### ms.contentlocale: pt-BR
+### ms.lasthandoff: 10/29/2021
+### ms.locfileid: "130765739"
 trigger:
 - '*'
 variables:
